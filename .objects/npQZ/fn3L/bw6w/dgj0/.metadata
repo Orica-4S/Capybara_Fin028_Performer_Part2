@@ -1,0 +1,14 @@
+﻿{
+  "Id": "dgj0fjt2LkWhmw0TRvqx-w",
+  "Reference": "6JjBnNeEG0a1NrvcbPFn-A/dgj0fjt2LkWhmw0TRvqx-w",
+  "ParentRef": "6JjBnNeEG0a1NrvcbPFn-A/bw6wVEudj02jOWAf2_bmHg",
+  "Name": "Enter Item Desc.",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-24T07:08:07.3170503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-24T07:08:07.3170503Z"
+}

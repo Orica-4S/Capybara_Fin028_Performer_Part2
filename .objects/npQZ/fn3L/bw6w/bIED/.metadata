@@ -1,0 +1,14 @@
+﻿{
+  "Id": "bIEDIfNGo0uzI3UPsqvXIg",
+  "Reference": "6JjBnNeEG0a1NrvcbPFn-A/bIEDIfNGo0uzI3UPsqvXIg",
+  "ParentRef": "6JjBnNeEG0a1NrvcbPFn-A/bw6wVEudj02jOWAf2_bmHg",
+  "Name": "Click 'Item Description'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-24T09:49:54.2640491Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-24T09:49:54.2640491Z"
+}
